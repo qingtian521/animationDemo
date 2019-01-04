@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!--动画的执行方式；sequentially：顺序执行、together：同时执行  android:ordering="sequentially | together"-->
+    <alpha
+        android:fromAlpha="10"
+        android:toAlpha="100"/>
+
+</set>
